@@ -1,0 +1,56 @@
+body {
+	margin:0px;
+	background-color:rgba(225,158,30)
+}
+
+h1 {
+	color: lightblue;
+	text-align:center;
+	font-family: futura;
+	font-size:17px;
+	background-color: black;
+	margin:0px;
+	border:0px;
+
+
+}
+
+
+header {
+	border-style:solid none;
+	border-color:rgba(256,256,256);
+	font-size: 25px;
+	background-color:rgba(150,150,180);
+	margin:0px;
+	border:0px;
+	padding: 20px;
+
+
+}
+
+
+.divheader {
+	text-align: center;
+}
+a {
+	letter-spacing: 5px;
+	font-family: futura;
+	color: black;
+	transition: all 0.5s;
+	margin: 30px
+
+}
+a:hover {
+	color:white;
+	font-size: 25px;
+	transform: scale(1.1);
+}
+
+
+
+255,128,0
+153,112,0
+255,188,0
+225,200,200
+73,156,0
+

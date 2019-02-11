@@ -1,0 +1,91 @@
+body {
+	margin:0px;
+	background-color:rgba(225,158,30)
+}
+
+h1 {
+	color: lightblue;
+	text-align:center;
+	font-family: futura;
+	font-size:17px;
+	background-color: black;
+	margin:0px;
+	border:0px;
+
+
+}
+
+
+header {
+	border-style:solid none;
+	border-color:rgba(256,256,256);
+	font-size: 25px;
+	background-color:rgba(150,150,180);
+	margin:0px;
+	border:0px;
+	padding: 20px;
+
+
+}
+
+
+.divheader {
+	text-align: center;
+}
+
+a {
+	letter-spacing: 5px;
+	font-family: futura;
+	color: black;
+	margin: 30px
+
+}
+a:hover {
+	color:white;
+	font-size: 25px;
+	transform: scale(1.1);
+}
+
+.registration {
+	text-align: center;
+	border-style: solid;
+	padding:20px,red;
+}
+/*?-------!*/
+
+
+.btn-facebook {
+    background-color: #405D9D;
+    color: #fff;
+    transition: none;
+}
+.btn-facebook:hover {
+	transform: scale(1);
+}
+
+.btn-twitter {
+	transition: 1s;
+	background-color: #42AEEC;
+    color: #fff;
+}
+.btn-twitter:hover {
+	transform: scale(1.1);
+}
+
+.form-group {
+	transition: all 2s;
+}
+
+.form-group:hover {
+	transform: scale(1.3);
+
+
+}
+
+
+
+
+
+
+
+
